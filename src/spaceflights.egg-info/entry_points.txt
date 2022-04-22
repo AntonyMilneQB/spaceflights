@@ -1,0 +1,3 @@
+[console_scripts]
+spaceflights = spaceflights.__main__:main
+

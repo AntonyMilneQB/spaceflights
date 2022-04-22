@@ -1,0 +1,35 @@
+2022-04-06 10:46:50,159 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 10:47:51,608 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 11:20:54,783 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 11:38:39,731 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([model_input_table,params:data_science.active_modelling_pipeline.model_options]) -> [data_science.active_modelling_pipeline.X_train,data_science.active_modelling_pipeline.X_test,data_science.active_modelling_pipeline.y_train,data_science.active_modelling_pipeline.y_test]` failed with error: 
+'test_size'
+2022-04-06 15:16:32,006 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 15:22:18,350 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 15:22:42,682 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 15:43:49,879 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 15:54:05,122 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 15:54:34,199 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 15:55:24,204 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2022-04-06 16:03:56,379 - root - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+

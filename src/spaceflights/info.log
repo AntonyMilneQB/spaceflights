@@ -1,0 +1,10 @@
+2022-04-06 10:55:52,278 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-04-06 10:55:52,323 - kedro.framework.session.session - WARNING - Unable to git describe /Users/antony_milne/kedro_stuff/projects/spaceflights/src/spaceflights
+2022-04-06 11:00:33,264 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-04-06 11:00:33,307 - kedro.framework.session.session - WARNING - Unable to git describe /Users/antony_milne/kedro_stuff/projects/spaceflights/src/spaceflights
+2022-04-06 11:01:13,375 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-04-06 11:01:13,463 - kedro.framework.session.session - WARNING - Unable to git describe /Users/antony_milne/kedro_stuff/projects/spaceflights/src/spaceflights
+2022-04-06 11:02:07,235 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-04-06 11:02:07,302 - kedro.framework.session.session - WARNING - Unable to git describe /Users/antony_milne/kedro_stuff/projects/spaceflights/src/spaceflights
+2022-04-06 11:02:41,192 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-04-06 11:02:41,236 - kedro.framework.session.session - WARNING - Unable to git describe /Users/antony_milne/kedro_stuff/projects/spaceflights/src/spaceflights
